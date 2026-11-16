@@ -6,4 +6,4 @@ Jornal semanal sobre música eletrônica e produção (House, Tech House, Melodi
 - Charts: apenas fatos (posição, artista, faixa, label) com fonte e data.
 - Correções ou pedidos de remoção: abra uma issue.
 
-Instagram: @jornallyra (PT) · @lyra.journal (EN)
+Instagram: @jornallyra (PT) · @the.lyra.journal (EN)
